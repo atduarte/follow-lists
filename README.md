@@ -9,6 +9,9 @@ From developers, to developers.
 
 ## Index
 
+* [EmberJS](lists/emberjs.list)
 * [Javascript](lists/javascript.list)
+* [PHP](lists/php.list)
+* [Rails](lists/rails.list)
 * [React](lists/react.list)
 * ...
