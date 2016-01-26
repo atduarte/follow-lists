@@ -11,7 +11,7 @@ From developers, to developers.
 
 * [EmberJS](lists/emberjs.list) (wip)
 * [Javascript](lists/javascript.list) (wip)
-* [Laravel](lists/react.list)
+* [Laravel](lists/laravel.list)
 * [PHP](lists/php.list)
 * [Rails](lists/rails.list) (wip)
 * [React](lists/react.list)
