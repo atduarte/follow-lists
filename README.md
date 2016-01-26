@@ -9,6 +9,7 @@ From developers, to developers.
 
 ## Index
 
+* [Angular](https://twitter.com/dev_lists/lists/angular) (wip)
 * [EmberJS](https://twitter.com/dev_lists/lists/emberjs) (wip)
 * [Javascript](https://twitter.com/dev_lists/lists/javascript) (wip)
 * [Laravel](https://twitter.com/dev_lists/lists/laravel)
