@@ -9,11 +9,11 @@ From developers, to developers.
 
 ## Index
 
-* [Angular](https://twitter.com/dev_lists/lists/angular)
-* [EmberJS](https://twitter.com/dev_lists/lists/emberjs) (wip)
-* [Javascript](https://twitter.com/dev_lists/lists/javascript) (wip)
-* [Laravel](https://twitter.com/dev_lists/lists/laravel)
-* [PHP](https://twitter.com/dev_lists/lists/php)
-* [Rails](https://twitter.com/dev_lists/lists/rails) (wip)
-* [React](https://twitter.com/dev_lists/lists/react)
+* [Angular](https://twitter.com/dev_lists/lists/angular) ([source](lists/angular.list))
+* [EmberJS](https://twitter.com/dev_lists/lists/emberjs) ([source](lists/emberjs.list)) (wip)
+* [Javascript](https://twitter.com/dev_lists/lists/javascript) ([source](lists/javascript.list)) (wip)
+* [Laravel](https://twitter.com/dev_lists/lists/laravel) ([source](lists/laravel.list))
+* [PHP](https://twitter.com/dev_lists/lists/php) ([source](lists/php.list))
+* [Rails](https://twitter.com/dev_lists/lists/rails) ([source](lists/rails.list)) (wip)
+* [React](https://twitter.com/dev_lists/lists/react) ([source](lists/react.list))
 * ...
