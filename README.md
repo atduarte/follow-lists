@@ -9,10 +9,10 @@ From developers, to developers.
 
 ## Index
 
-* [EmberJS](lists/emberjs.list) (wip)
-* [Javascript](lists/javascript.list) (wip)
-* [Laravel](lists/laravel.list)
-* [PHP](lists/php.list)
-* [Rails](lists/rails.list) (wip)
-* [React](lists/react.list)
+* [EmberJS](https://twitter.com/dev_lists/lists/emberjs) (wip)
+* [Javascript](https://twitter.com/dev_lists/lists/javascript) (wip)
+* [Laravel](https://twitter.com/dev_lists/lists/laravel)
+* [PHP](https://twitter.com/dev_lists/lists/php)
+* [Rails](https://twitter.com/dev_lists/lists/rails) (wip)
+* [React](https://twitter.com/dev_lists/lists/react)
 * ...
