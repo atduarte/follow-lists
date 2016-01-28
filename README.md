@@ -7,6 +7,8 @@ Everyone can change/create lists, by making pull requests and all the changes in
 
 From developers, to developers.
 
+**Already know some awesome lists? Export them with [exporter.js](exporter.js) and add them here. :)**
+
 ## Index
 
 * [Angular](https://twitter.com/dev_lists/lists/angular)
